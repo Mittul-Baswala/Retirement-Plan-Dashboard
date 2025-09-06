@@ -74,9 +74,3 @@ It aims to provide insights into **how demographics, savings objectives, and mot
 
 
 
----
-
-## 📜 License
-This project is released under the [MIT License](LICENSE).
-
----
